@@ -1,0 +1,14 @@
+---
+title: "MT5000 Quarto Assignment"
+author: "Kiran Vargaonkar 22261257"
+date: "2023-04-28"
+output: html_document
+---
+
+# <span style="background-color:#0066B3; color:#FFFFFF; padding:5px;">SDG 2.2.2: Prevalence of Malnutrition Among Children Under 5 Years - Wasting vs Overweight</span>
+
+<span style="font-style: italic;">By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women, and older persons</span>
+
+- <span style="color:#0066B3;">1 out of 10 healthcare facilities, globally, had no sanitation service in 2021.</span>
+- <span style="color:#0066B3;">21% of the proportion of basic sanitation services in healthcare facilities in the least developed countries.</span>
+- <span style="color:#0066B3;">780 million people globally had no service at their healthcare facility.</span>
